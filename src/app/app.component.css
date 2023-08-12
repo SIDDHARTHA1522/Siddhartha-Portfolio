@@ -1,0 +1,21 @@
+
+.navbar-nav {
+  margin-left: auto;
+  justify-content: space-around;
+}
+.db {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+.navbar-brand {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: rgb(129, 20, 5);
+}
+.navbar{
+    background-color: rgb(221, 230, 233);
+}
+#navbarNav{
+font-size: larger;
+font-weight: bold;
+}
