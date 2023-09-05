@@ -1,14 +1,16 @@
 .jambo{
     margin-top: 2%;
-    margin-left: 12%;  
+    margin-left: 12%;
  }
  .jambo1{
  font-weight: bold;
  font-size: 60px;
+ color: aqua;
  }
  .jambo2{
      font-weight: bold;
      font-size: 60px;
+     color: aqua;
  }
  #ba{
      color: rgb(233, 78, 17);
@@ -16,9 +18,10 @@
  .jambo3{
      font-weight: bold;
      font-size: larger;
+     color:rgb(233, 78, 17);
  }
  #bi{
-     color: brown;
+     color: rgb(168, 244, 247);
  }
  .jambo4, a{
  background-color: rgb(9, 42, 187);
@@ -76,7 +79,7 @@
     display: block;
     width: 60px;
     height: 60px;
-    background: #FFFFFF;
+    background: #fffefe;
     border-radius: 100%;
     transition: all 200ms;
 }

@@ -8,19 +8,19 @@
   padding: 30px 32px;
   box-shadow: -1px 4px 28px 0px rgba(0, 0, 0, 0.75);
   border-radius: 30px;
-  background-image: url("../../assets/c2.png");
+  background-image: url("../../assets/c2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .contain2 {
-  color: black;
+  color: rgb(255, 250, 250);
   margin: 10px auto;
   width: 500px;
   padding: 30px 32px;
-  box-shadow: -1px 4px 28px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: -1px 4px 28px 0px rgb(253, 247, 247);
   border-radius: 30px;
-  background-image: url("../../assets/c1.png");
+  background-image: url("/assets/c1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }

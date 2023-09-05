@@ -6,3 +6,11 @@ img {
     width: 100%;
     height: 100%;
 }
+.hero-cap{
+  color: rgb(255, 103, 1);
+
+}
+.about-area{
+  color: rgb(255, 255, 255);
+  background-color: black;
+}
